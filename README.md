@@ -10,7 +10,6 @@
 - Improving my game development skills and upgrading beginner projects
 - Exploring image processing concepts
 - Learning embedded systems and microcontroller projects
-- Participating in hackathons and technical challenges
 
 ---
 
