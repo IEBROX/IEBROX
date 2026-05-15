@@ -6,4 +6,4 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am addicted to chess...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IEBROX&show_icons=true)
+
