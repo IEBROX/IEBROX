@@ -1,43 +1,77 @@
-# 👋 Hi, I'm Het Patel (@IEBROX)
+<h1 align="center">Hey 👋 I'm Het Patel</h1>
+<h3 align="center">Game Developer • Electronics Student • Builder of Weird Things</h3>
 
-🎓 Electronics & Instrumentation student  
-🎮 Interested in Game Development, Embedded Systems, Image Processing, and Electronics  
-🛠️ Building projects with Python, NodeMCU, OpenCV, and experimenting with games  
-
----
-
-## 🚀 Currently Working On
-- Improving my game development skills and upgrading beginner projects
-- Exploring image processing concepts
-- Learning embedded systems and microcontroller projects
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Learning+Game+Development;Exploring+Image+Processing;Building+with+NodeMCU;Turning+Ideas+into+Projects">
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Game Development
-- Image Processing (OpenCV)
+## 🧠 About Me
+
+```yaml
+Name: Het Patel
+Username: IEBROX
+Education: Electronics & Instrumentation Student
+Interests:
+  - 🎮 Game Development
+  - 📷 Image Processing
+  - ⚙️ Embedded Systems
+  - 🔌 Electronics
+  - 🚀 Hackathons
+Current Goal:
+  - Build better projects
+```
+
+---
+
+## ⚒️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"/>
+</p>
+
+Learning:
+
+- OpenCV
+- NodeMCU
 - PCB Design
 - Embedded Systems
-- Electronics Projects
+- Game Development
 
 ---
 
-## 🔭 Projects & Interests
-🎮 Game Development  
-📷 Image Processing  
-⚙️ Microcontrollers & NodeMCU  
-🔌 Electronics & PCB Design  
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IEBROX&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IEBROX&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## ♟️ Fun Facts
-- Slightly addicted to chess
-- I enjoy building random projects to see if they explode (figuratively... mostly)
+## 🚀 Current Projects
+
+🔹 Improving game projects  
+🔹 Image processing experiments  
+🔹 Electronics projects  
+🔹 Hackathon work  
 
 ---
 
-## 📫 Connect With Me
-Email: het2806patel@gmail.com
+## ♟ Fun Facts
+
+- Addicted to chess
+- Curious about how things work
+- Turns small ideas into projects
+
 ---
 
-> "Learning by building things and breaking them."
+<p align="center">
+
+"Build. Break. Learn. Repeat."
+
+</p>
