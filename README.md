@@ -1,119 +1,45 @@
-```bash
-> booting profile...
-> loading user: IEBROX
-> status: ONLINE
-```
+# 👋 Hi, I'm Het Patel (@IEBROX)
 
-# ███╗   ██╗███████╗██████╗ ██████╗  ██████╗ ██╗  ██╗
-# ████╗  ██║██╔════╝██╔══██╗██╔══██╗██╔═══██╗╚██╗██╔╝
-# ██╔██╗ ██║█████╗  ██████╔╝██████╔╝██║   ██║ ╚███╔╝
-# ██║╚██╗██║██╔══╝  ██╔══██╗██╔═══╝ ██║   ██║ ██╔██╗
-# ██║ ╚████║███████╗██████╔╝██║     ╚██████╔╝██╔╝ ██╗
-# ╚═╝  ╚═══╝╚══════╝╚═════╝ ╚═╝      ╚═════╝ ╚═╝  ╚═╝
-
-```
-> USER: Het Patel
-> USERNAME: @IEBROX
-> ROLE: Electronics & Instrumentation Student
-> STATUS: Learning • Building • Breaking • Improving
-```
+🎓 Electronics & Instrumentation student  
+🎮 Interested in Game Development, Embedded Systems, Image Processing, and Electronics  
+🛠️ Building projects with Python, NodeMCU, OpenCV, and experimenting with games  
 
 ---
 
-## ~/about_me
-
-```yaml
-Name: Het Patel
-Age: Human
-Location: India
-
-Interests:
-  - 🎮 Game Development
-  - ⚙️ Embedded Systems
-  - 📷 Image Processing
-  - 🔌 Electronics
-  - 🚀 Hackathons
-  - ♟ Chess
-
-Currently Learning:
-  - OpenCV
-  - PCB Design
-  - Game Development
-  - Microcontrollers
-
-Goal:
-  Build projects worth showing.
-```
+## 🚀 Currently Working On
+- Improving my game development skills and upgrading beginner projects
+- Exploring image processing concepts
+- Learning embedded systems and microcontroller projects
 
 ---
 
-## ~/tech_stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode"/>
-</p>
-
----
-
-## ~/current_missions
-
-```txt
-[✓] Learning image processing
-[✓] Exploring electronics projects
-[✓] Building game projects
-[ ] Becoming unbeatable at chess
-[ ] Sleeping enough
-```
+## 🌱 Currently Learning
+- Game Development
+- Image Processing (OpenCV)
+- PCB Design
+- Embedded Systems
+- Electronics Projects
 
 ---
 
-## ~/github_stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=IEBROX&show_icons=true&theme=chartreuse-dark"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IEBROX&theme=chartreuse-dark"/>
-
-</p>
+## 🔭 Projects & Interests
+🎮 Game Development  
+📷 Image Processing  
+⚙️ Microcontrollers & NodeMCU  
+🔌 Electronics & PCB Design  
 
 ---
 
-## ~/active_projects
-
-```bash
-> Loading projects...
-
-Project_01 : Image Processing Experiments
-Project_02 : Game Development
-Project_03 : NodeMCU & Electronics
-Project_04 : Hackathon Projects
-
-Status: In Progress...
-```
+## ♟️ Fun Facts
+- Slightly addicted to chess
+- I enjoy building random projects to see if they explode (figuratively... mostly)
 
 ---
 
-## ~/connect
-
-```txt
-GitHub : https://github.com/IEBROX
-Email  : yourmail@example.com
-LinkedIn : (optional)
-```
+## 📫 Connect With Me
+GitHub: https://github.com/IEBROX    
+Email: het2806patel@gmail.com
 
 ---
 
-<p align="center">
-
-```bash
-> Final message:
-"Build things.
-Break things.
-Learn things.
-Repeat."
-```
-
-</p>
-
-![](https://komarev.com/ghpvc/?username=IEBROX&color=green)
+> "Learning by building things and breaking them."
